@@ -1,0 +1,14 @@
+.hero {
+    color: rgb(238, 110, 63);
+}
+
+.hero-bg-color {
+    background-color: rgb(246, 244, 242);
+    margin-bottom: 100px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.fontsize {
+    font-size: 30px;
+}
